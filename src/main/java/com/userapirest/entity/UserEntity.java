@@ -1,6 +1,6 @@
 package com.userapirest.entity;
 
-import jakarta.persistence.Entity;
+import javax.persistence.*;
 import jakarta.persistence.GeneratedValue;
 import jakarta.persistence.GenerationType;
 import jakarta.persistence.Id;
